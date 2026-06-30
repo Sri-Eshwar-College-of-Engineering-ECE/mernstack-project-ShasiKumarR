@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Patient Health Monitor - MERN Stack Application
 
 A comprehensive IoT patient monitoring system built with the MERN stack (MongoDB, Express.js, React, Node.js).
@@ -209,3 +210,6 @@ For support and questions:
 - Create an issue in the repository
 - Check the troubleshooting section above
 - Review API documentation and endpoints
+=======
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2A_MIV9j)
+>>>>>>> bea076de9d6e60bf70a8d5287ef419d91bf17dad
